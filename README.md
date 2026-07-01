@@ -1,3 +1,6 @@
+"I build optimization models using network graph algorithms to streamline supply chains, and integrate local LLMs with data frameworks to deliver secure, automated business intelligence."
+
+
 # Lojistik-Optimasyon-Modeli
 Matematiksel modelleme kullanarak en kısa yol optimizasyonu yapan Python projesi
 ## Proje Amacı
@@ -11,3 +14,6 @@ Bu proje, karmaşık lojistik ağlarında maliyet ve zaman optimizasyonu sağlam
 
 ## Nasıl Çalışır?
 Proje, tanımlanan düğümler (fabrikalar, depolar) ve bu düğümler arasındaki ağırlıklar (mesafe/maliyet) üzerinden bir model oluşturur. Dijkstra algoritmasını kullanarak hedef noktaya ulaşan en düşük maliyetli rotayı belirler ve görsel bir harita çıktısı sunar.
+
+
+
